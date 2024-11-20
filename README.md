@@ -8,10 +8,12 @@ The HRMS (Hotel Reservation Management System) is designed to manage hotel booki
 This project includes the following files:
 
 - **README.md**: This file, containing setup and usage instructions.
-- **TABLE_CREATION.sql**: SQL script for creating the required tables for the system.
-- **Values_insertion.sql**: SQL script for inserting sample data into the tables.
-- **sql_manipulations.sql**: SQL script for querying and manipulating the data in the database.
-- **table_structure.ssmssln**: SQL Server Management Studio (SSMS) file containing the table structure for easier navigation.
+- **SQL_SCHEMA.sql**: SQL script for creating the required tables for the system.
+- **CRUD_OPERATIONS.sql**: SQL script for inserting sample data into the tables.
+- **ADVANCED_SQL_QUERIES.sql**: SQL script for querying and manipulating the data in the database.
+- **table_structure.JPG**: file containing the structure of the database.
+- **FILE REPORT**: Contains the documaentation about the whole project.
+- ** PRESENTATION SLIDES**
 
 ## Requirements
 Before running the scripts, ensure you have the following installed:
